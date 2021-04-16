@@ -6,4 +6,4 @@ the user gets alerts in case they forget to input the weight or the weight unit.
 This app was inspired by Brad Travery who made a simpler version on his youtube channel.
 
 
-<a href="https://sad-wilson-8cdc69.netlify.app/">See App</a>
+## <a href="https://sad-wilson-8cdc69.netlify.app/">See App</a>
